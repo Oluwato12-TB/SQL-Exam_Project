@@ -45,7 +45,7 @@ This project simulates a database task where a customer table is created and pop
 ## Data Analysis
 
 ### Code/syntax
- # createing Datasat
+ #### Create Datasat
 
 <pre>
   CREATE DATABASE AxiaStores;
@@ -76,7 +76,7 @@ VALUES
 ('10', 'Blessing', 'Mark', 'blessing.mark@gmail.com', '0803‐123‐0010', 'Uyo'); </pre>
 
 
-# Create table (ProductTB)
+#### Create table (ProductTB)
 
 <pre>
   CREATE TABLE ProductTB (
@@ -103,7 +103,7 @@ VALUES
 
 
 
-# Create table (OrdersTB)  
+#### Create table (OrdersTB)  
 
 
 <pre>
@@ -135,4 +135,8 @@ VALUES
 •	The table CustomerTB was successfully created with required columns and a primary key.
 •	All customer records were inserted without errors.
 •	Queries returned correct results based on sorting and filtering.
+
+![image alt]
+![image alt]
+![image alt]
 
