@@ -7,6 +7,18 @@ To demonstrate practical SQL skills including creating tables, inserting records
 
 
 
+## 2. Table of Contents  
+- [Objective](#1-objective)  
+- [Expected Outcome](#3-expected-outcome)  
+- [Key Questions](#4-key-questions)  
+- [Project Overview](#5-project-overview)  
+- [Tools](#6-tools)  
+- [Code/Syntax Used](#7-codesyntax-used)  
+- [Results](#8-results)    
+- [Summary](#10-summary)
+
+
+
 ## 3. Expected Outcome  
 - A structured customer table named CustomerTB  
 - Multiple data entries inserted successfully  
@@ -136,7 +148,12 @@ VALUES
 •	All customer records were inserted without errors.
 •	Queries returned correct results based on sorting and filtering.
 
-![image alt]https://github.com/Oluwato12-TB/SQL-Exam_Project/blob/main/CostumerTB.png
-![image alt]https://github.com/Oluwato12-TB/SQL-Exam_Project/blob/main/ProductTB.png
-![image alt]
+![image alt](https://github.com/Oluwato12-TB/SQL-Exam_Project/blob/main/CostumerTB.png)
+![image alt](https://github.com/Oluwato12-TB/SQL-Exam_Project/blob/main/ProductTB.png)
+![image alt](https://github.com/Oluwato12-TB/SQL-Exam_Project/blob/main/OrdersTB.png)
+
+
+
+## Summary
+This project showcases fundamental SQL operations relevant to real-world data management. From table creation to filtered queries, it reinforces the importance of structured, clean database handling in backend or data-driven applications.
 
