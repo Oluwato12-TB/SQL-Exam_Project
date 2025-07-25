@@ -144,9 +144,9 @@ VALUES
 
 
 ## Results
-•	The table CustomerTB was successfully created with required columns and a primary key.
-•	All customer records were inserted without errors.
-•	Queries returned correct results based on sorting and filtering.
+1. The table CustomerTB was successfully created with required columns and a primary key.
+2. All customer records were inserted without errors.
+3. Queries returned correct results based on sorting and filtering.
 
 ![image alt](https://github.com/Oluwato12-TB/SQL-Exam_Project/blob/main/CostumerTB.png)
 ![image alt](https://github.com/Oluwato12-TB/SQL-Exam_Project/blob/main/ProductTB.png)
