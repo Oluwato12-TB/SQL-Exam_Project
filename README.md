@@ -137,6 +137,6 @@ VALUES
 •	Queries returned correct results based on sorting and filtering.
 
 ![image alt]https://github.com/Oluwato12-TB/SQL-Exam_Project/blob/main/CostumerTB.png
-![image alt]
+![image alt]https://github.com/Oluwato12-TB/SQL-Exam_Project/blob/main/ProductTB.png
 ![image alt]
 
